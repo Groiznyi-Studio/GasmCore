@@ -1,4 +1,4 @@
-# Constants and Public data:
+# Constants and Public data
 
 1)NULL - Empty data
 2)REGISTER_ALL - Constant for function ClearRegister
