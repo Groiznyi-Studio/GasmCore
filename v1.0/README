@@ -27,5 +27,5 @@
 7)Add(FirstArgv, SecondArgv) - FirstArgv + SecondArgv
 8)ClearRegister(Register) - Clear all: Label = REGISTER_ALL
 9)ClearHeap(Label) - Clear all: Label = HEAP_ALL
-10)PrintRegister(Password) - Password for GasmCore for Developers
-11)PrintHeap(Password) - Password for GasmCore for Developers
+10)PrintRegister(Password) - Password for Developers Function
+11)PrintHeap(Password) - Password for Developers Function
